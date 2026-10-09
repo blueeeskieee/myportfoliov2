@@ -1,1 +1,4 @@
-# myportfoliov2
+# Blue Secusana Portfolio (React + Vite)
+
+
+.
